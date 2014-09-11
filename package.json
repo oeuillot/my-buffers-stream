@@ -1,0 +1,19 @@
+{
+  "name": "my-buffers-stream",
+  "version": "0.1.0",
+  "description": "An other buffers stream",
+  "main": "lib/buffersStream.js",
+  "dependencies": {
+ },
+  "scripts": {
+   },
+  "repository": "",
+  "keywords": [
+    "Node.js",
+    "buffers",
+    "stream"
+  ],
+  "author": "Olivier Oeuillot",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
